@@ -1,6 +1,15 @@
 is-number
 =========
 
+.. image:: https://github.com/thomasarsouze/is-number/actions/workflows/ci.yaml/badge.svg
+    :target: https://github.com/thomasarsouze/is-number/actions/workflows/ci.yaml
+    :alt: GitHub Actions - CI
+.. image:: https://github.com/thomasarsouze/is-number/actions/workflows/pre-commit.yaml/badge.svg
+    :target: https://github.com/thomasarsouze/is-number/actions/workflows/pre-commit.yaml
+    :alt: GitHub Actions - pre-commit
+.. image:: https://img.shields.io/codecov/c/gh/thomasarsouze/is-number
+    :target: https://app.codecov.io/gh/thomasarsouze/is-number
+    :alt: Codecov
 A Python library to determine if something is a number.
 
 Developing
